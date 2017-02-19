@@ -1,7 +1,7 @@
 {
-  "name": "aws-lambda-image",
+  "name": "aws-lambda-image-itinerantfoodie",
   "version": "0.10.0",
-  "description": "An AWS Lambda Function to resize/reduce images automatically",
+  "description": "Resize and reduce images uploaded to my S3 bucket",
   "config": {
     "profile": "default",
     "region": "us-east-1",
