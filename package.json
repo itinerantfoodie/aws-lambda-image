@@ -4,7 +4,7 @@
   "description": "An AWS Lambda Function to resize/reduce images automatically",
   "config": {
     "profile": "default",
-    "region": "eu-west-1",
+    "region": "us-east-1",
     "memory": "1280",
     "timeout": "5"
   },
@@ -40,6 +40,11 @@
       "name": "Kamil Dybicz",
       "email": "kamil.dybicz@gmail.com",
       "web": "https://github.com/kdybicz"
+    },
+    {
+      "name": "Barry Teoh",
+      "email": "barry.teoh@perceptionz.net",
+      "web": "http://barryteoh.com/"
     }
   ],
   "license": "MIT",
